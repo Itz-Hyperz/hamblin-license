@@ -4,7 +4,7 @@ checkLicense(); // Call the license check
 
 // Async function to check the license
 async function checkLicense() {
-    let check = await licenseSystem.check({ url: "https://xolifyzdevelopement.xyz/licenses/api/index.php", product: "aio-music", key: "HqYD62I9vM12IZSl" }); // Make GET request
+    let check = await licenseSystem.check({ url: "https://domain.ext/licenses/api/index.php", product: "product-link", key: "YOUR_LICENSE_KEY" }); // Make GET request
     // Check returns an object containing { pass: true/false, code: responseCode, message: codeMessage }
 
     // License System Checking
