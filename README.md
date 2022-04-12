@@ -5,6 +5,8 @@ ALSO, with all licensing techniques, it is HIGHLY recommended that you encrypt o
 
 I highly suggest [JS Obfuscator](https://obfuscator.io/) however if you really want to double down on the encryption, you could also pick up [Verbatim JS Compiler](https://store.hyperz.net/store/verbatim).
 
+Start by doing `npm i hamblin-license`
+
 # Example Code
 ```js
 // Import the license system
