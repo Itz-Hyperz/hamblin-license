@@ -1,0 +1,27 @@
+{
+  "name": "hamblin-license",
+  "version": "1.0.0",
+  "description": "A license system to check if a project is licensed.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itz-Hyperz/hamblin-license.git"
+  },
+  "keywords": [
+    "Hyperz",
+    "Development",
+    "Hamblin",
+    "License",
+    "System",
+    "STV2",
+    "Discord"
+  ],
+  "author": "Hyperz#0001",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
